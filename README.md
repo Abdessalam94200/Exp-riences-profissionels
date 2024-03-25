@@ -4,4 +4,4 @@ Mon Tableau de Bord
 
 Explore my professional journey and skills development through my interactive Tableau dashboard. This dashboard highlights my growth from an aspiring data analyst to my current skill set, showcasing projects I've worked on.
 
-[View My Dashboard](<https://public.tableau.com/app/profile/abde.dai>)
+[View My Dashboard](<https://public.tableau.com/app/profile/abde.da/vizzes>)
